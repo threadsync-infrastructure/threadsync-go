@@ -1,3 +1,3 @@
-module github.com/threadsync/threadsync-go
+module github.com/threadsync-infrastructure/threadsync-go
 
 go 1.21
