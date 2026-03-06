@@ -8,8 +8,10 @@ The official Go SDK for the [ThreadSync](https://threadsync.io) API. Sync data b
 
 ## Installation
 
+> **Preview**: SDKs are in preview and installed from GitHub. Registry packages (npm, PyPI, etc.) will be available at GA.
+
 ```bash
-go get github.com/threadsync/threadsync-go
+go get github.com/threadsync-infrastructure/threadsync-go
 ```
 
 Requires Go 1.21 or later.
